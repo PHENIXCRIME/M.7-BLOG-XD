@@ -3,5 +3,8 @@
     "extends": [
     "standard" ,
     "standard-react"
-    ]
+    ],
+    "rules": {
+      "react/pros-types" : 0
+    }
 }
